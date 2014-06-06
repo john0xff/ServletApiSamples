@@ -1,0 +1,1 @@
+drop database servlets_api_samples;

@@ -13,7 +13,7 @@ import javax.servlet.annotation.WebFilter;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * 
+ * @WebFilter console output 
  */
 @WebFilter("/6.Servlets-Writing_Filters/LogFilter")
 public class LogFilter implements Filter
